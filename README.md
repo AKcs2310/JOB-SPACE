@@ -2,7 +2,8 @@
 
 Project Title: Job Portal
 
-Developed by: Anjali Mittal
+Developed by: Ankit Gupta
+
 
 ## Overview
 
